@@ -23,7 +23,6 @@ import org.redisson.transaction.RedissonTransaction;
  * Main infrastructure class allows to get access
  * to all Redisson objects on top of Redis server.
  *
- * @author Nikita Koksharov
  */
 public class Redisson implements RedissonClient {
 
