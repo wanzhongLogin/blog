@@ -20,9 +20,7 @@ import org.redisson.remote.ResponseEntry;
 import org.redisson.transaction.RedissonTransaction;
 
 /**
- * Main infrastructure class allows to get access
- * to all Redisson objects on top of Redis server.
- *
+ * 这里进行测试提交
  */
 public class Redisson implements RedissonClient {
 
